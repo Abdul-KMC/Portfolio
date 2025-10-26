@@ -52,13 +52,9 @@ const skillsSection = {
   title: "What I do",
   subTitle: "PROBLEM SOLVER DRIVEN BY CURIOSITY & PERSISTENCE.",
   skills: [
-    emoji(
-      "⚡ Develop highly interactive web applications"
-    ),
+    emoji("⚡ Develop highly interactive web applications"),
     emoji("⚡ Bring Solution to real world problems"),
-    emoji(
-      "⚡ Create marketing stratigies through content and social media"
-    )
+    emoji("⚡ Create marketing stratigies through content and social media")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -136,9 +132,8 @@ const educationInfo = {
       subHeader: "Bachelor of Technology in Computer Science and Engineering",
       duration: "July 2019 - July 2023",
       desc: "",
-      descBullets: [
-      ]
-    },
+      descBullets: []
+    }
   ]
 };
 
@@ -200,7 +195,7 @@ const workExperiences = {
         "Responsible for fixing, analyzing, and creating metaheuristic algorithms.",
         "Used MATLAB to fix, analyze, improve, test & create metaheuristic algorithms."
       ]
-    },
+    }
   ]
 };
 
@@ -221,7 +216,8 @@ const bigProjects = {
     {
       image: require("./assets/images/atomm.jpg"),
       projectName: "Atomm Classes",
-      projectDesc: "Competitive Exam Preparation web-application for students and teachers.",
+      projectDesc:
+        "Competitive Exam Preparation web-application for students and teachers.",
       footerLink: [
         {
           name: "GitHub Link",
