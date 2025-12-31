@@ -165,7 +165,7 @@ const workExperiences = {
   experience: [
     {
       role: "Creative Director",
-      company: "Urban Plants",
+      company: "Urban Plant",
       companylogo: require("./assets/images/urbanPlant.webp"),
       date: "Aug 2025 – Present",
       desc: "Worked as creative director for Urban Plant's online store",
